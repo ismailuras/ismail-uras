@@ -33,7 +33,7 @@ src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&col
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/somestuffkeys" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ismailkatirci/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+ <a href="https://www.linkedin.com/in/ismailkatirci/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
