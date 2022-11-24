@@ -12,10 +12,6 @@ I've been learning front-end development technologies for 1 year. I love Javascr
 * 🧠  I'm learning React.js and Tailwind.
 * 🤝  I'm open to collaborating on web development
 
-<a href="https://www.twitter.com/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 
