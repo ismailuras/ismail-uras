@@ -8,7 +8,7 @@ I've been learning front-end development technologies for 1 year. I love Javascr
 
 * 🌍  I'm based in Ankara
 * ✉️  You can contact me at [katirciismail29@gmail.com](mailto:katirciismail29@gmail.com)
-* 🚀  I'm currently working on [Gorilla Cards](http://https://gorillacards.app/)
+* 🚀  I'm currently working on [Gorilla Cards](https://gorillacards.app/)
 * 🧠  I'm learning React.js and Tailwind.
 * 🤝  I'm open to collaborating on web development
 
