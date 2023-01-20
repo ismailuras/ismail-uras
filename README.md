@@ -1,4 +1,4 @@
-Hi 👋 My name is İsmail Katırcı
+Hi 👋 My name is İsmail Uras
 ===============================
 
 Front-end Developer (Jr.)
